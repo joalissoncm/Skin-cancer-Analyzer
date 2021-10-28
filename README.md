@@ -17,5 +17,3 @@ Número de mortes no Brasil:  1.978, sendo 1.159 homens e 819 mulheres (2019 - A
 
 ### Made with ![](streamlit-logo.png)
 ### Powered with ![keras](keras.png)
-
-![animated-demo](animated.gif)
