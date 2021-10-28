@@ -85,7 +85,7 @@ def display_prediction(y_new):
     result["Classes"] = result["Classes"].map(lesion_type_dict)
     return result
 
-
+#main
 def main():
     st.sidebar.header('Skin cancer Analyzer')
     st.sidebar.subheader('Choose a page to proceed:')
