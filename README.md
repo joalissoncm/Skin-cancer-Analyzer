@@ -16,4 +16,4 @@ Número de mortes no Brasil:  1.978, sendo 1.159 homens e 819 mulheres (2019 - A
 #### Notebook code  for this application [Available here](https://github.com/joalissoncm/Skin-cancer-Analyzer/blob/master/1_Skin_.ipynb)
 
 ### Made with ![](streamlit-logo.png)
-### Powered with ![keras](keras.png)
+### Powered with ![keras](logo.png)
