@@ -13,7 +13,7 @@ Número de mortes no Brasil:  1.978, sendo 1.159 homens e 819 mulheres (2019 - A
 
 #### Demo Application Deployed on [Heruko](https://skin-cancer-analysis.herokuapp.com/)
 #### This is a prototype for an online tool that can detect Skin cancer.
-#### Notebook code  for this application [Available here](https://www.kaggle.com/shashwatwork/skin-cancer-analyzer-streamlit-app)
+#### Notebook code  for this application [Available here](https://github.com/joalissoncm/Skin-cancer-Analyzer/blob/master/1_Skin_.ipynb)
 
 ### Made with ![](streamlit-logo.png)
 ### Powered with ![keras](keras.png)
