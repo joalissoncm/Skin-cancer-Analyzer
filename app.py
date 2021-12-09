@@ -18,7 +18,7 @@ DATAPATH = './data/'
 def render_header():
     st.write("""
         <p align="center"> 
-            <H1> Analisar Câncer de Pele 
+            <H1> Skin cancer Analyzer 
         </p>
 
     """, unsafe_allow_html=True)
